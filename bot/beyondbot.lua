@@ -291,30 +291,27 @@ function create_config( )
     "anti_spam",
     "killme"
     },
-    sudo_users = {157059515},--Sudo users
+    sudo_users = {253204747},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[😎Tele Beyond Final Version😎
 ➡️An Administrator The PowerFull Bot Based On TeleSeed And Bilingual Written On Lua⬅️
 
-Source On GitHub :
 
-Https://Github.com/solid021/TeleBeyond
 
-▶️Sudo Users :
 
-Developer&Founder : @SoLiD021
 
-Developer&Manager : @MrHalix
 
-Developer&Manager : @idivanmanheb
 
-#⃣Team Channel :
-✌️ @BeyondTeam ✌️
 
-❤️Special Thx To :
-Beyond Team
-And All My Friends :D
+
+
+
+
+
+
+
+
 ]],
     help_text_realm = [[
 Realm Commands:
